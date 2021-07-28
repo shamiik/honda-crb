@@ -15,3 +15,7 @@ body{
 /* .btn-color{
     background-color: #E76F51;
 } */
+
+.gray-clr{
+  filter: grayscale(100%);
+}
