@@ -1,4 +1,17 @@
-.text-clr{
-    color: #E0E0E0;
-;
+/*..... font ....    */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
 }
+
+.bg-color{
+    background-color: #264653; !important
+}
+.p-text{
+    color: #E0E0E0;
+}
+
+/* .btn-color{
+    background-color: #E76F51;
+} */
