@@ -1,10 +1,11 @@
 /*..... font ....    */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
 
+
 body{
     font-family: 'Poppins', sans-serif;
 }
-
+          /* Header  */
 .bg-color{
     background-color: #264653; !important
 }
@@ -12,20 +13,21 @@ body{
     color: #E0E0E0;
 }
 
-/* .btn-color{
-    background-color: #E76F51;
-} */
+        /* Fetured Bike */
 
 .gray-clr{
   filter: grayscale(100%);
 }
+
+        /* Client Review */
+
 .text-color{
     color: #E76F51;
 }
 .text-align{
     text-align: justify;
 }
-/* star mark  */
+        /* Review Mark  */
 .text-color1{
     color:blue;
 }
