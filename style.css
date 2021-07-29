@@ -4,42 +4,60 @@
 
 /* .........Utility...............*/
 body{
+
     font-family: 'Poppins', sans-serif;
+
 }
 
 
   /* ..........Header...........  */
 .bg-color{
+
     background-color: #264653; !important
+
 }
 .p-text{
+
     color: #E0E0E0;
+
 }
 
 
 /*........... Fetured Bike.......... */
 .gray-clr{
+
   filter: grayscale(100%);
+
 }
 
 
 /*.............Client Review.......... */
 .text-color{
+
     color: #E76F51;
 }
 .text-align{
     text-align: justify;
+
 }
-/* ......Review Mark.......  */
+/* ......Review STAR.......  */
 .text-color1{
+
     color:blue;
+
 }
 .fa-star{
+
     font-size:12px;
+
 }
 .fa-star.filled{
+
     color: #E76F51;
+
 }
 .fa-star.empty{
+
     color: grey;
+
 }
